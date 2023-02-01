@@ -1,0 +1,13 @@
+{
+    "name": "markov-app",
+    "version": "1.0.0",
+    "description": "",
+    "main": "makeText.js",
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+      "jest": "^23.6.0"
+    }
+  }
+  
